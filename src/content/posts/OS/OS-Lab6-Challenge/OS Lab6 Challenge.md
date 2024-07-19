@@ -1,9 +1,9 @@
 ---
 title: OS Lab6 Challenge - Enhanced Shell
 published: 2024-06-27
-description: OS Lab6 挑战性任务 - 增强Shell设计文档
+description: 在Lab6的基础上支持很多方便功能的Shell，不过写起来很不方便...
 image: "./OS Lab6 Challenge cover.jpg"
-tags: [OS]
+tags: [OS, C]
 category: Report
 draft: false
 ---

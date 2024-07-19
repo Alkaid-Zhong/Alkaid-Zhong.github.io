@@ -1,8 +1,8 @@
 ---
-title: OS Lab2
+title: OS Lab2 - 内存管理
 published: 2024-04-11
-description: OS Lab2 实验笔记
-tags: [OS]
+description: MIPS 4Kc的访存流程与内存映射布局，实现对TLB、物理内存、虚拟内存的管理
+tags: [OS, C]
 category: Report
 draft: false
 ---

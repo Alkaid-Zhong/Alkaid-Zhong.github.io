@@ -1,8 +1,8 @@
 ---
-title: OS Lab4
+title: OS Lab4 - 系统调用与FORK
 published: 2024-05-23
-description: OS Lab4 实验笔记
-tags: [OS]
+description: 实现系统调用、进程间通信和fork
+tags: [OS, C]
 category: Report
 draft: false
 ---

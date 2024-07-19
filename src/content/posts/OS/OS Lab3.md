@@ -1,8 +1,8 @@
 ---
-title: OS Lab3
+title: OS Lab3 - 进程与异常
 published: 2024-04-25
-description: OS Lab3 实验笔记
-tags: [OS]
+description: 对不知道为什么起名为Env的Process进行管理
+tags: [OS, C]
 category: Report
 draft: false
 ---

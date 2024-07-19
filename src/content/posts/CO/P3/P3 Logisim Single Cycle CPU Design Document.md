@@ -1,8 +1,8 @@
 ---
 title: 计算机组成 P3 - Logisim Single Cycle CPU
 published: 2023-10-28
-description: Logisim 单周期 CPU 设计文档
-tags: [CO]
+description: 相当青涩的Logisim单周期CPU
+tags: [CO, Logisim]
 category: Report
 draft: false
 ---

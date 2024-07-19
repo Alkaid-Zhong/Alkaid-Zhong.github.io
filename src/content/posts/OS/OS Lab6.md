@@ -1,8 +1,8 @@
 ---
-title: OS Lab6
+title: OS Lab6 - 管道与SHELL
 published: 2024-06-10
-description: OS Lab6 实验笔记
-tags: [OS]
+description: 至此，MOS终于可以稍微优雅地实现交互了
+tags: [OS, C]
 category: Report
 draft: false
 ---

@@ -1,8 +1,8 @@
 ---
-title: OS Lab1
+title: OS Lab1 - 内核，启动与printf
 published: 2024-03-28
-description: OS Lab1 实验笔记
-tags: [OS]
+description: 后话：千万不要当做C语言填空完成后面的Lab
+tags: [OS, C]
 category: Report
 draft: false
 ---

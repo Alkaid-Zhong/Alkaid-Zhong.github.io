@@ -1,8 +1,8 @@
 ---
 title: 计算机组成 P6 - Verilog Pipeline CPU
 published: 2023-11-24
-description: Verilog 流水线 CPU 设计文档
-tags: [CO]
+description: 在P5的基础上，新增了按半字、字节寻址，以及乘除法计算单元
+tags: [CO, Verilog]
 category: Report
 draft: false
 ---

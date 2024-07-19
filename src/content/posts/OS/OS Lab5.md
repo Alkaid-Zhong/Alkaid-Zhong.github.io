@@ -1,8 +1,8 @@
 ---
-title: OS Lab5
+title: OS Lab5 - 文件系统
 published: 2024-05-30
-description: OS Lab5 实验笔记
-tags: [OS]
+description: 需要完成一个简单的硬盘驱动，并且实现文件系统服务
+tags: [OS, C]
 category: Report
 draft: false
 ---

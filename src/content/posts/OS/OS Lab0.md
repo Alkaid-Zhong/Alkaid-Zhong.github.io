@@ -1,7 +1,7 @@
 ---
-title: OS Lab0
+title: OS Lab0 - Linux
 published: 2024-03-14
-description: OS Lab0 实验笔记
+description: 主要是Git、Makefile和Linux基本操作的教学
 tags: [OS]
 category: Report
 draft: false

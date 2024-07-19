@@ -1,8 +1,8 @@
 ---
 title: 计算机组成 P5 - Verilog Pipeline CPU
 published: 2023-11-12
-description: Verilog 流水线 CPU 设计文档
-tags: [CO]
+description: 从P4的单周期CPU修改至流水线CPU，支持简单访存、计算、跳转、分支，指令：add, sub, ori, lui, beq, lw, sw, jal, jr, nop
+tags: [CO, Verilog]
 category: Report
 draft: false
 ---

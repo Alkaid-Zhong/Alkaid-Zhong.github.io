@@ -1,8 +1,8 @@
 ---
 title: 计算机组成 P4 - Verilog Single Cycle CPU
 published: 2023-11-03
-description: Verilog 单周期 CPU 设计文档
-tags: [CO]
+description: 一个单周期的MIPS指令集CPU，支持指令：add, sub, ori, lw, sw, beq, lui, jal, jr, nop
+tags: [CO, Verilog]
 category: Report
 draft: false
 ---

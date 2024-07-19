@@ -1,8 +1,8 @@
 ---
 title: 计算机组成 P7 - Verilog Pipeline CPU
 published: 2023-12-08
-description: Verilog 流水线 CPU 设计文档
-tags: [CO]
+description: 本次实验在P6的基础上，增加了CP0协处理器相关的指令，并且需要支持异常、中断等
+tags: [CO, Verilog]
 category: Report
 draft: false
 ---
